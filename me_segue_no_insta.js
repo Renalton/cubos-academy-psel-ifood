@@ -1,5 +1,3 @@
-
-
 function solucao(largura, altura) {
     if(altura > largura){
         console.log("RETRATO");
